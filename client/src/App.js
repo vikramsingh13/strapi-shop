@@ -1,8 +1,8 @@
-
+import { useEffect } from 'react';
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="app">
         This is app container
     </div>
   );
